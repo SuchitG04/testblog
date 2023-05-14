@@ -1,0 +1,10 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+description: "This is a sample description for this blog."
+date: "2023-05-14"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
